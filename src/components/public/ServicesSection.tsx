@@ -29,7 +29,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Roll Press & Fabric Polish',
       turnaround: '5–7 Days Turnaround',
       icon: <Sparkles className="w-4 h-4 text-blue-600" />,
-      imageUrl: '/src/assets/images/sarees_care_1792159339604.jpg',
+      imageUrl: '/images/sarees-care.jpg',
     },
     {
       id: 'block-pants-shirts',
@@ -41,7 +41,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Crease-Free Steam Pressing',
       turnaround: '5–7 Days Turnaround',
       icon: <Shirt className="w-4 h-4 text-blue-600" />,
-      imageUrl: '/src/assets/images/shirts_press_1792159341509.jpg',
+      imageUrl: '/images/pants-and-shirts.jpg',
     },
     {
       id: 'block-coats',
@@ -53,7 +53,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Shape & Lapel Preservation',
       turnaround: '5–7 Days Turnaround',
       icon: <ShieldCheck className="w-4 h-4 text-blue-600" />,
-      imageUrl: '/src/assets/images/coats_dryclean_1792159341693.jpg',
+      imageUrl: '/images/coats-dryclean.jpg',
     },
     {
       id: 'block-dresses',
@@ -65,7 +65,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Color & Texture Safe',
       turnaround: '5–7 Days Turnaround',
       icon: <Award className="w-4 h-4 text-blue-600" />,
-      imageUrl: '/src/assets/images/dresses_designer_1792159413257.jpg',
+      imageUrl: '/images/dresses-designer.jpg',
     },
     {
       id: 'block-colouring',
@@ -77,7 +77,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Color Bleed & Stain Neutralization',
       turnaround: '5–7 Days Turnaround',
       icon: <Droplets className="w-4 h-4 text-blue-600" />,
-      imageUrl: '/src/assets/images/fabric_colouring_1792159343518.jpg',
+      imageUrl: '/images/colours-care-removal.jpg',
     },
     {
       id: 'block-darning',
@@ -89,7 +89,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Hole & Tear Restoration',
       turnaround: '5–7 Days Turnaround',
       icon: <Scissors className="w-4 h-4 text-blue-600" />,
-      imageUrl: '/src/assets/images/darning_repair_1792158136093.jpg',
+      imageUrl: '/images/darning-repair.jpg',
     },
     {
       id: 'block-express-48h',
@@ -101,7 +101,7 @@ export const ServicesSection: React.FC = () => {
       highlight: '48-Hour Priority Queue',
       turnaround: '48 Hours Target',
       icon: <Zap className="w-4 h-4 text-amber-500" />,
-      imageUrl: '/src/assets/images/delivery_express_1792159341741.jpg',
+      imageUrl: '/images/express-doorstep-delivery.jpg',
     },
     {
       id: 'block-doorstep',
@@ -113,7 +113,7 @@ export const ServicesSection: React.FC = () => {
       highlight: 'Doorstep Convenience',
       turnaround: 'Scheduled Pickup & Drop',
       icon: <Truck className="w-4 h-4 text-emerald-600" />,
-      imageUrl: '/src/assets/images/delivery_express_1792159341741.jpg',
+      imageUrl: '/images/express-doorstep-delivery.jpg',
     },
   ];
 

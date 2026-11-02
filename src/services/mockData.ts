@@ -178,7 +178,7 @@ export const INITIAL_SERVICES: ServiceItem[] = [
     iconName: 'ShieldCheck',
     isPopular: true,
     active: true,
-    image: '/images/coats-dryclean.jpg',
+    image: '/images/coats-dryclean.png',
   },
   {
     id: 'srv-dresses',
