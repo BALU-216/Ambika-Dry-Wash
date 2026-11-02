@@ -56,7 +56,7 @@ export const PublicOrderModal: React.FC = () => {
       (notes.trim() ? `*Special Notes:* ${notes.trim()}\n\n` : `\n`) +
       `Please confirm my scheduled pickup/drop. Thank you!`;
 
-    const shopWhatsApp = (settings?.whatsappPhone || settings?.phone || '9440966689').replace(/\D/g, '');
+    const shopWhatsApp = (settings?.whatsappPhone || settings?.phone || '6301682969').replace(/\D/g, '');
     const fullShopPhone = shopWhatsApp.startsWith('91') ? shopWhatsApp : `91${shopWhatsApp}`;
     return `https://wa.me/${fullShopPhone}?text=${encodeURIComponent(messageText)}`;
   };
@@ -174,7 +174,7 @@ export const PublicOrderModal: React.FC = () => {
                     required
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
-                    placeholder="e.g. 9440966689"
+                    placeholder="e.g. 6301682969"
                     className="w-full pl-9 pr-3 py-2.5 bg-slate-50 border border-slate-200 rounded-xl font-mono text-slate-800 focus:bg-white focus:ring-2 focus:ring-blue-500 focus:outline-none"
                   />
                 </div>

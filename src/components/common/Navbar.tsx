@@ -34,7 +34,7 @@ export const Navbar: React.FC = () => {
           </div>
           <div className="flex items-center gap-3 shrink-0 ml-auto">
             <a
-              href={`https://wa.me/919440966689?text=Hello%20Ambika%20Dry%20Wash,%20I%20would%20like%20to%20inquire%20about%20your%20laundry%20and%20dry%20cleaning%20services.`}
+              href={`https://wa.me/916301682969?text=Hello%20Ambika%20Dry%20Wash,%20I%20would%20like%20to%20inquire%20about%20your%20laundry%20and%20dry%20cleaning%20services.`}
               target="_blank"
               rel="noreferrer"
               className="text-emerald-400 hover:text-emerald-300 font-semibold flex items-center gap-1 transition-colors"
@@ -175,7 +175,7 @@ export const Navbar: React.FC = () => {
           <div className="pt-2 flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-500 px-1">
             <span>Patamata, Vijayawada • Mon–Sat: 9:30 AM–9:30 PM | Sun: 9:30 AM–1:00 PM</span>
             <a
-              href="https://wa.me/919440966689?text=Hello%20Ambika%20Dry%20Wash,%20I%20have%20an%20inquiry."
+              href="https://wa.me/916301682969?text=Hello%20Ambika%20Dry%20Wash,%20I%20have%20an%20inquiry."
               target="_blank"
               rel="noreferrer"
               className="text-emerald-600 font-bold flex items-center gap-1"

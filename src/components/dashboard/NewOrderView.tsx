@@ -404,7 +404,7 @@ const newOrder = await createOrder({
                   maxLength={10}
                   value={phoneSearch}
                   onChange={(e) => setPhoneSearch(e.target.value.replace(/\D/g, ''))}
-                  placeholder="9440966689"
+                  placeholder="6301682969"
                   className="w-full pl-11 pr-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs font-mono font-bold text-slate-900 focus:bg-white focus:ring-2 focus:ring-blue-500 focus:outline-none"
                 />
               </div>

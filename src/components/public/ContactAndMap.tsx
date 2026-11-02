@@ -68,7 +68,7 @@ export const ContactAndMap: React.FC = () => {
                   <div className="min-w-0 flex-1">
                     <span className="text-[11px] text-slate-400 block">Phone Support</span>
                     <a
-                      href={`tel:${settings.phone || '+919440966689'}`}
+                      href={`tel:${settings.phone || '+916301682969'}`}
                       className="font-bold text-slate-800 hover:text-blue-600 text-sm block truncate"
                     >
                       {settings.phone || '+91 94409 66689'}
@@ -83,7 +83,7 @@ export const ContactAndMap: React.FC = () => {
                   <div className="min-w-0 flex-1">
                     <span className="text-[11px] text-slate-400 block">WhatsApp Desk</span>
                     <a
-                      href={`https://wa.me/919440966689?text=Hi%20Ambika%20Dry%20Wash%20Vijayawada,%20I%20have%20an%20inquiry.`}
+                      href={`https://wa.me/916301682969?text=Hi%20Ambika%20Dry%20Wash%20Vijayawada,%20I%20have%20an%20inquiry.`}
                       target="_blank"
                       rel="noreferrer"
                       className="font-bold text-emerald-600 hover:underline text-sm inline-flex items-center gap-1"
@@ -225,7 +225,7 @@ export const ContactAndMap: React.FC = () => {
                         required
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                        placeholder="e.g. 9440966689"
+                        placeholder="e.g. 6301682969"
                         className="w-full p-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs text-slate-900 focus:bg-white focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
                       />
                     </div>

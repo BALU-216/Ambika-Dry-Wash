@@ -221,7 +221,7 @@ const handleAddCustomer = async (e: React.FormEvent) => {
                   required
                   value={newCust.phone}
                   onChange={(e) => setNewCust({ ...newCust, phone: e.target.value })}
-                  placeholder="e.g. 9440966689"
+                  placeholder="e.g. 6301682969"
                   className="w-full p-2.5 bg-slate-50 border border-slate-200 rounded-xl text-slate-900 font-mono focus:bg-white focus:ring-2 focus:ring-blue-500"
                 />
               </div>
