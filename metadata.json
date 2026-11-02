@@ -1,0 +1,7 @@
+{
+  "name": "Ambika Dry Wash",
+  "description": "Web-Based Laundry Service Management System for Ambika Dry Wash in Patamata, Vijayawada, Andhra Pradesh. Built with conventional status-based order lifecycle, mobile-based customer lookup, deterministic loyalty and billing, and WhatsApp Business notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
