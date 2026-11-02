@@ -68,10 +68,10 @@ export const ContactAndMap: React.FC = () => {
                   <div className="min-w-0 flex-1">
                     <span className="text-[11px] text-slate-400 block">Phone Support</span>
                     <a
-                      href={`tel:${settings.phone || '+916301682969'}`}
+                      href="tel:+916301682969"
                       className="font-bold text-slate-800 hover:text-blue-600 text-sm block truncate"
                     >
-                      {settings.phone || '+91 94409 66689'}
+                      +91 63016 82969
                     </a>
                   </div>
                 </div>
@@ -88,7 +88,7 @@ export const ContactAndMap: React.FC = () => {
                       rel="noreferrer"
                       className="font-bold text-emerald-600 hover:underline text-sm inline-flex items-center gap-1"
                     >
-                      <span>{settings.whatsappPhone || '+91 94409 66689'}</span>
+                      <span>+91 63016 82969</span>
                       <ExternalLink className="w-3 h-3 shrink-0" />
                     </a>
                   </div>

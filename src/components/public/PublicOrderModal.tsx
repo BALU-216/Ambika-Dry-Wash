@@ -123,7 +123,7 @@ export const PublicOrderModal: React.FC = () => {
             <div>
               <h3 className="text-lg sm:text-xl font-black text-slate-900">Request Dispatched!</h3>
               <p className="text-xs text-slate-600 max-w-sm mx-auto mt-1 leading-relaxed">
-                Thank you, <span className="font-bold text-slate-800">{name}</span>! Your service inquiry has been sent to Ambika Dry Wash Patamata (+91 94409 66689) on WhatsApp. Our desk will confirm your schedule promptly.
+                Thank you, <span className="font-bold text-slate-800">{name}</span>! Your service inquiry has been sent to Ambika Dry Wash Patamata (+91 63016 82969) on WhatsApp. Our desk will confirm your schedule promptly.
               </p>
             </div>
             <div className="p-4 bg-slate-50 rounded-2xl border border-slate-200 text-left text-xs space-y-1.5">
@@ -262,7 +262,7 @@ export const PublicOrderModal: React.FC = () => {
                 <span>Submit Request & Connect on WhatsApp</span>
               </button>
               <p className="text-[11px] text-slate-400 text-center mt-2">
-                Opens WhatsApp directly to Ambika Dry Wash counter desk (+91 94409 66689)
+                Opens WhatsApp directly to Ambika Dry Wash counter desk (+91 63016 82969)
               </p>
             </div>
           </form>

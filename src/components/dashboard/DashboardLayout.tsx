@@ -360,7 +360,7 @@ export const DashboardLayout: React.FC<DashboardLayoutProps> = ({ children }) =>
                   <span className="text-[10px] px-1.5 py-0.5 rounded bg-emerald-500/20 text-emerald-400">Open</span>
                 </div>
                 <p className="text-[10px] text-slate-400 leading-tight">
-                  Patamata, Vijayawada • +91 94409 66689
+                  Patamata, Vijayawada • +91 63016 82969
                 </p>
               </div>
             )}

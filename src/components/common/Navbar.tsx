@@ -40,7 +40,7 @@ export const Navbar: React.FC = () => {
               className="text-emerald-400 hover:text-emerald-300 font-semibold flex items-center gap-1 transition-colors"
             >
               <Phone className="w-3 h-3 shrink-0" />
-              <span>WhatsApp: +91 94409 66689</span>
+              <span>WhatsApp: +91 63016 82969</span>
             </a>
           </div>
         </div>
@@ -181,7 +181,7 @@ export const Navbar: React.FC = () => {
               className="text-emerald-600 font-bold flex items-center gap-1"
             >
               <MessageSquare className="w-3.5 h-3.5" />
-              <span>+91 94409 66689</span>
+              <span>+91 63016 82969</span>
             </a>
           </div>
         </div>

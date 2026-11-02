@@ -46,7 +46,7 @@ export const SettingsView: React.FC = () => {
     settingsService.resetAllDataToDefaults();
     refreshData();
     setFormData(settingsService.getSettings());
-    addToast('info', 'Database Reset', 'Default Vijayawada seed records restored (+91 94409 66689).');
+    addToast('info', 'Database Reset', 'Default Vijayawada seed records restored (+91 63016 82969).');
   };
 
   return (

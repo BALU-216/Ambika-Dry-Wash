@@ -86,7 +86,7 @@ export const WhatsAppView: React.FC = () => {
               WhatsApp Notifications Hub
             </h1>
             <span className="px-2.5 py-0.5 rounded-full bg-emerald-50 text-emerald-700 text-xs font-bold border border-emerald-200">
-              Patamata Desk • +91 94409 66689
+              Patamata Desk • +91 63016 82969
             </span>
           </div>
           <p className="text-xs sm:text-sm text-slate-500 mt-1">

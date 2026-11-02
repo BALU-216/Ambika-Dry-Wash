@@ -237,7 +237,7 @@ export const OwnerLogin: React.FC = () => {
 
           {/* Security footnote */}
           <div className="mt-6 pt-4 border-t border-slate-100 text-center text-[11px] text-slate-400">
-            Authorized management &amp; staff access only • +91 94409 66689
+            Authorized management &amp; staff access only • +91 63016 82969
           </div>
         </div>
       </div>

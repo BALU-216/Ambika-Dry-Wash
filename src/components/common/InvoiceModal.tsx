@@ -72,7 +72,7 @@ export const InvoiceModal: React.FC = () => {
                 </p>
                 <p className="flex items-center gap-1.5">
                   <Phone className="w-3.5 h-3.5 text-slate-400 shrink-0" />
-                  {settings.phone || '+91 94409 66689'}
+                  {settings.phone || '+91 63016 82969'}
                 </p>
               </div>
             </div>

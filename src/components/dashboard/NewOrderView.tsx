@@ -401,7 +401,7 @@ const newOrder = await createOrder({
                 <input
                   type="tel"
                   required
-                  maxLength={10}
+                  maxLength={10}href="https://wa.me/6301682969..."
                   value={phoneSearch}
                   onChange={(e) => setPhoneSearch(e.target.value.replace(/\D/g, ''))}
                   placeholder="6301682969"
